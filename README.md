@@ -1,2 +1,3 @@
 # BFS-Maze-Solver
-Breadth-first search assuming maze is solvable 
+Breadth-first search 
+Assumes maze is solvable 
